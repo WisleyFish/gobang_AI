@@ -225,7 +225,7 @@ int negamax(GameState S, int depth, int alpha, int beta) {
 ## 源码
 最终的源码在
 [https://github.com/colingogogo/gobang_AI#gobang_ai](https://github.com/colingogogo/gobang_AI#gobang_ai)
- 记得点个star哦， 哈哈
+ 记得点个star哦， 哈哈:smile:
 
 界面部分借的是这里的
 [http://www.cnblogs.com/qiaozhoulin/p/4546884.html](http://www.cnblogs.com/qiaozhoulin/p/4546884.html)
@@ -233,6 +233,7 @@ int negamax(GameState S, int depth, int alpha, int beta) {
 
 源码不重要， 重要的是这样的思想， 可以用来写任何博弈类的AI，当然评估函数要写好。 
 
-最后放一张截图结束，谢谢！
+>最后放一张截图结束，谢谢！
+原作者產生的是16x16棋盤。
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/6893492-eaf7554bf44b9dcd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
