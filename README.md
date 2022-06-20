@@ -225,7 +225,7 @@ int negamax(GameState S, int depth, int alpha, int beta) {
 ## 源码
 最终的源码在
 [https://github.com/colingogogo/gobang_AI#gobang_ai](https://github.com/colingogogo/gobang_AI#gobang_ai)
- 记得点个star哦， 哈哈:smile:
+ 记得点个star哦， 哈哈:smile: [<emoji表情符號>](https://www.webfx.com/tools/emoji-cheat-sheet/)   
 
 界面部分借的是这里的
 [http://www.cnblogs.com/qiaozhoulin/p/4546884.html](http://www.cnblogs.com/qiaozhoulin/p/4546884.html)
